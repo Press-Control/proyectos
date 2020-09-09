@@ -14,25 +14,25 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('inicio');
-})->name("inicio");
+    return view('web.inicio');
+})->name("web.inicio");
 
 Route::get('grid', function () {
-    return view('grid');
+    return view('web.grid');
 })->name("grid");
 
 Route::get('checkout', function () {
-    return view('checkout');
+    return view('web.checkout');
 })->name("checkout");
 
 Route::get('shop_cart', function () {
-    return view('shop_cart');
+    return view('web.shop_cart');
 })->name("shop_cart");
 
 Route::get('single', function () {
-    return view('single');
+    return view('web.single');
 })->name("single");
 
 Route::get('wishlist', function () {
-    return view('wishlist');
+    return view('web.wishlist');
 })->name("wishlist");
