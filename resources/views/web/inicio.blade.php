@@ -8,7 +8,7 @@
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
-      <img class="img-fluid" src="images/shop/banner/05.jpg" alt="slider">
+      <img class="img-fluid" src="web/images/shop/banner/05.jpg" alt="slider">
             <div class="slider-content">
               <div class="container">
               <div class="row">
@@ -25,7 +25,7 @@
          </div>
       </div>
       <div class="carousel-item">
-        <img class="img-fluid" src="images/shop/banner/06.jpg" alt="slider">
+        <img class="img-fluid" src="web/images/shop/banner/06.jpg" alt="slider">
             <div class="slider-content">
              <div class="container">
               <div class="row">
@@ -126,7 +126,7 @@ product -->
          <div class="item">
          <div class="product">
              <div class="product-image">
-                 <img class="img-fluid mx-auto" src="images/shop/01.jpg" alt="">
+                 <img class="img-fluid mx-auto" src="web/images/shop/01.jpg" alt="">
                  <div class="product-overlay">
                    <div class="add-to-cart">
                       <a href="shop-single.html">añadir al carrito</a>
@@ -146,7 +146,7 @@ product -->
        <div class="item">
          <div class="product">
              <div class="product-image">
-                 <img class="img-fluid mx-auto" src="images/shop/02.jpg" alt="">
+                 <img class="img-fluid mx-auto" src="web/images/shop/02.jpg" alt="">
                  <div class="product-overlay">
                    <div class="add-to-cart">
                       <a href="shop-single.html">añadir al carrito</a>
@@ -166,7 +166,7 @@ product -->
         <div class="item">
          <div class="product">
              <div class="product-image">
-                 <img class="img-fluid mx-auto" src="images/shop/03.jpg" alt="">
+                 <img class="img-fluid mx-auto" src="web/images/shop/03.jpg" alt="">
                  <div class="product-overlay">
                    <div class="add-to-cart">
                       <a href="shop-single.html">añadir al carrito</a>
@@ -186,7 +186,7 @@ product -->
         <div class="item">
          <div class="product">
              <div class="product-image">
-                 <img class="img-fluid mx-auto" src="images/shop/04.jpg" alt="">
+                 <img class="img-fluid mx-auto" src="web/images/shop/04.jpg" alt="">
                  <div class="product-overlay">
                    <div class="add-to-cart">
                       <a href="shop-single.html">añadir al carrito</a>
@@ -206,7 +206,7 @@ product -->
          <div class="item">
          <div class="product">
              <div class="product-image">
-                 <img class="img-fluid mx-auto" src="images/shop/05.jpg" alt="">
+                 <img class="img-fluid mx-auto" src="web/images/shop/05.jpg" alt="">
                  <div class="product-overlay">
                    <div class="add-to-cart">
                       <a href="shop-single.html">añadir al carrito</a>
@@ -269,7 +269,7 @@ product -->
          <div class="item">
          <div class="product">
              <div class="product-image">
-                 <img class="img-fluid mx-auto" src="images/shop/01.jpg" alt="">
+                 <img class="img-fluid mx-auto" src="web/images/shop/01.jpg" alt="">
                  <div class="product-overlay">
                    <div class="add-to-cart">
                       <a href="shop-single.html">add to cart</a>
@@ -289,7 +289,7 @@ product -->
        <div class="item">
          <div class="product">
              <div class="product-image">
-                 <img class="img-fluid mx-auto" src="images/shop/02.jpg" alt="">
+                 <img class="img-fluid mx-auto" src="web/images/shop/02.jpg" alt="">
                  <div class="product-overlay">
                    <div class="add-to-cart">
                       <a href="shop-single.html">add to cart</a>
@@ -309,7 +309,7 @@ product -->
         <div class="item">
          <div class="product">
              <div class="product-image">
-                 <img class="img-fluid mx-auto" src="images/shop/03.jpg" alt="">
+                 <img class="img-fluid mx-auto" src="web/images/shop/03.jpg" alt="">
                  <div class="product-overlay">
                    <div class="add-to-cart">
                       <a href="shop-single.html">add to cart</a>
@@ -329,7 +329,7 @@ product -->
         <div class="item">
          <div class="product">
              <div class="product-image">
-                 <img class="img-fluid mx-auto" src="images/shop/04.jpg" alt="">
+                 <img class="img-fluid mx-auto" src="web/images/shop/04.jpg" alt="">
                  <div class="product-overlay">
                    <div class="add-to-cart">
                       <a href="shop-single.html">add to cart</a>
@@ -349,7 +349,7 @@ product -->
          <div class="item">
          <div class="product">
              <div class="product-image">
-                 <img class="img-fluid mx-auto" src="images/shop/05.jpg" alt="">
+                 <img class="img-fluid mx-auto" src="web/images/shop/05.jpg" alt="">
                  <div class="product-overlay">
                    <div class="add-to-cart">
                       <a href="shop-single.html">add to cart</a>
@@ -392,7 +392,7 @@ blog -->
          <div class="col-md-4 col-sm-4 xs-mb-30">
           <div class="blog blog-simple text-left">
              <div class="blog-image">
-                  <img class="img-fluid" src="images/shop/blog/01.jpg" alt="">
+                  <img class="img-fluid" src="web/images/shop/blog/01.jpg" alt="">
                </div>
                <div class="blog-name mt-20">
                 <h4 class="mt-15"><a href="#">Does your life lack meaning</a></h4>
@@ -405,7 +405,7 @@ blog -->
        <div class="col-md-4 col-sm-4 xs-mb-30">
          <div class="blog blog-simple text-left">
              <div class="blog-image">
-                  <img class="img-fluid" src="images/shop/blog/02.jpg" alt="">
+                  <img class="img-fluid" src="web/images/shop/blog/02.jpg" alt="">
                </div>
                <div class="blog-name mt-20">
                 <h4 class="mt-15"><a href="#">Supercharge your motivation</a></h4>
@@ -418,7 +418,7 @@ blog -->
         <div class="col-md-4 col-sm-4">
          <div class="blog blog-simple text-left">
              <div class="blog-image">
-                  <img class="img-fluid" src="images/shop/blog/03.jpg" alt="">
+                  <img class="img-fluid" src="web/images/shop/blog/03.jpg" alt="">
                </div>
                <div class="blog-name mt-20">
                 <h4 class="mt-15"><a href="#">Helen keller a teller seller</a></h4>

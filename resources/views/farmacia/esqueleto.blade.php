@@ -7,32 +7,32 @@
 <meta name="description" content="Webster - Responsive Multi-purpose HTML5 Template" />
 <meta name="author" content="potenzaglobalsolutions.com" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-<title>Webster - Responsive Multi-purpose HTML5 Template</title>
+<title>Farmacia</title>
 
 <!-- Favicon -->
-<link rel="shortcut icon" href="images/favicon.ico" />
+<link rel="shortcut icon" href="web/images/favicon.ico" />
 
 <!-- font -->
 <link  rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:300,300i,400,500,500i,600,700,800,900|Poppins:200,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Dosis:300,400,500,600,700,800">
 
 <!-- Plugins -->
-<link rel="stylesheet" type="text/css" href="css/plugins-css.css" />
+<link rel="stylesheet" type="text/css" href="web/css/plugins-css.css" />
 
 <!-- revoluation -->
-<link rel="stylesheet" type="text/css" href="revolution/css/settings.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="web/revolution/css/settings.css" media="screen" />
 
 <!-- Typography -->
-<link rel="stylesheet" type="text/css" href="css/typography.css" />
+<link rel="stylesheet" type="text/css" href="web/css/typography.css" />
 
 <!-- Shortcodes -->
-<link rel="stylesheet" type="text/css" href="css/shortcodes/shortcodes.css" />
+<link rel="stylesheet" type="text/css" href="web/css/shortcodes/shortcodes.css" />
 
 <!-- Style -->
-<link rel="stylesheet" type="text/css" href="css/style.css" />
+<link rel="stylesheet" type="text/css" href="web/css/style.css" />
 
 <!-- Responsive -->
-<link rel="stylesheet" type="text/css" href="css/responsive.css" />
+<link rel="stylesheet" type="text/css" href="web/css/responsive.css" />
 
 </head>
 
@@ -43,7 +43,7 @@
 <!--=================================
  preloader -->
 <div id="pre-loader">
-    <img src="images/pre-loader/loader-01.svg" alt="">
+    <img src="web/images/pre-loader/loader-01.svg" alt="">
 </div>
 <!--=================================
  preloader -->
@@ -57,34 +57,34 @@
  javascripts -->
 
 <!-- jquery -->
-<script src="js/jquery-3.4.1.min.js"></script>
+<script src="web/js/jquery-3.4.1.min.js"></script>
 
 <!-- All plugins -->
-<script src="js/plugins-jquery.js"></script>
+<script src="web/js/plugins-jquery.js"></script>
 
 <!-- Plugins path -->
 <script>var plugin_path = 'js/';</script>
 
 <!-- REVOLUTION JS FILES -->
-<script src="revolution/js/jquery.themepunch.tools.min.js"></script>
-<script src="revolution/js/jquery.themepunch.revolution.min.js"></script>
+<script src="web/revolution/js/jquery.themepunch.tools.min.js"></script>
+<script src="web/revolution/js/jquery.themepunch.revolution.min.js"></script>
 
 <!-- SLIDER REVOLUTION 5.0 EXTENSIONS  (Load Extensions only on Local File Systems !  The following part can be removed on Server for On Demand Loading) -->
-<script src="revolution/js/extensions/revolution.extension.actions.min.js"></script>
-<script src="revolution/js/extensions/revolution.extension.carousel.min.js"></script>
-<script src="revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
-<script src="revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
-<script src="revolution/js/extensions/revolution.extension.migration.min.js"></script>
-<script src="revolution/js/extensions/revolution.extension.navigation.min.js"></script>
-<script src="revolution/js/extensions/revolution.extension.parallax.min.js"></script>
-<script src="revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
-<script src="revolution/js/extensions/revolution.extension.video.min.js"></script>
+<script src="web/revolution/js/extensions/revolution.extension.actions.min.js"></script>
+<script src="web/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
+<script src="web/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
+<script src="web/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+<script src="web/revolution/js/extensions/revolution.extension.migration.min.js"></script>
+<script src="web/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+<script src="web/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+<script src="web/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+<script src="web/revolution/js/extensions/revolution.extension.video.min.js"></script>
 
 <!-- revolution custom -->
-<script src="revolution/js/revolution-custom.js"></script>
+<script src="web/revolution/js/revolution-custom.js"></script>
 
 <!-- custom -->
-<script src="js/custom.js"></script>
+<script src="web/js/custom.js"></script>
 
 </body>
 </html>

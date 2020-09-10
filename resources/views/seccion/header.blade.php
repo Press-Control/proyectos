@@ -34,7 +34,7 @@
 
 <div class="menu">
   <!-- menu start -->
-   <nav id="menu" class="mega-menu">
+   <nav id="menu" class="mega-menu" style="height: 85px;">
     <!-- menu list items container -->
     <section class="menu-list-items">
      <div class="container">
@@ -43,7 +43,7 @@
         <!-- menu logo -->
         <ul class="menu-logo">
             <li>
-                <a href="index-01.html"><img id="logo_img" src="images/logo.png" alt="logo"> </a>
+                <a href="index-01.html"><img id="logo_img" src="web/images/logo.png" alt="logo"> </a>
             </li>
         </ul>
         <!-- menu links -->

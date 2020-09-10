@@ -1,6 +1,6 @@
 @extends('farmacia.esqueleto')
   @include('seccion.header2')
-  <section class="page-title bg-overlay-black-60 parallax" data-jarallax='{"speed": 0.6}' style="background-image: url(images/bg/02.jpg);">
+  <section class="page-title bg-overlay-black-60 parallax" data-jarallax='{"speed": 0.6}' style="background-image: url(web/images/bg/02.jpg);">
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
@@ -33,7 +33,7 @@ shop -->
                 <div class="col-lg-4 col-md-4 col-sm-6">
                  <div class="product mb-40">
                      <div class="product-image">
-                         <img class="img-fluid mx-auto" src="images/shop/01.jpg" alt="">
+                         <img class="img-fluid mx-auto" src="web/images/shop/01.jpg" alt="">
                          <div class="product-overlay">
                            <div class="add-to-cart">
                               <a href="shop-single.html">add to cart</a>
@@ -60,7 +60,7 @@ shop -->
                <div class="col-lg-4 col-md-4 col-sm-6">
                  <div class="product mb-40">
                      <div class="product-image">
-                         <img class="img-fluid mx-auto" src="images/shop/02.jpg" alt="">
+                         <img class="img-fluid mx-auto" src="web/images/shop/02.jpg" alt="">
                          <div class="product-overlay">
                            <div class="add-to-cart">
                               <a href="shop-single.html">add to cart</a>
@@ -87,7 +87,7 @@ shop -->
                 <div class="col-lg-4 col-md-4 col-sm-6">
                  <div class="product mb-40">
                      <div class="product-image">
-                         <img class="img-fluid mx-auto" src="images/shop/03.jpg" alt="">
+                         <img class="img-fluid mx-auto" src="web/images/shop/03.jpg" alt="">
                          <div class="product-overlay">
                            <div class="add-to-cart">
                               <a href="shop-single.html">add to cart</a>
@@ -114,7 +114,7 @@ shop -->
                 <div class="col-lg-4 col-md-4 col-sm-6">
                  <div class="product mb-40">
                      <div class="product-image">
-                         <img class="img-fluid mx-auto" src="images/shop/04.jpg" alt="">
+                         <img class="img-fluid mx-auto" src="web/images/shop/04.jpg" alt="">
                          <div class="product-overlay">
                            <div class="add-to-cart">
                               <a href="shop-single.html">add to cart</a>
@@ -141,7 +141,7 @@ shop -->
                 <div class="col-lg-4 col-md-4 col-sm-6">
                  <div class="product mb-40">
                      <div class="product-image">
-                         <img class="img-fluid mx-auto" src="images/shop/05.jpg" alt="">
+                         <img class="img-fluid mx-auto" src="web/images/shop/05.jpg" alt="">
                          <div class="product-overlay">
                            <div class="add-to-cart">
                               <a href="shop-single.html">add to cart</a>
@@ -168,7 +168,7 @@ shop -->
                 <div class="col-lg-4 col-md-4 col-sm-6">
                  <div class="product mb-40">
                      <div class="product-image">
-                         <img class="img-fluid mx-auto" src="images/shop/06.jpg" alt="">
+                         <img class="img-fluid mx-auto" src="web/images/shop/06.jpg" alt="">
                          <div class="product-overlay">
                            <div class="add-to-cart">
                               <a href="shop-single.html">add to cart</a>
@@ -195,7 +195,7 @@ shop -->
                 <div class="col-lg-4 col-md-4 col-sm-6">
                  <div class="product mb-40">
                      <div class="product-image">
-                         <img class="img-fluid mx-auto" src="images/shop/07.jpg" alt="">
+                         <img class="img-fluid mx-auto" src="web/images/shop/07.jpg" alt="">
                          <div class="product-overlay">
                            <div class="add-to-cart">
                               <a href="shop-single.html">add to cart</a>
@@ -222,7 +222,7 @@ shop -->
                 <div class="col-lg-4 col-md-4 col-sm-6">
                  <div class="product mb-40">
                      <div class="product-image">
-                         <img class="img-fluid mx-auto" src="images/shop/08.jpg" alt="">
+                         <img class="img-fluid mx-auto" src="web/images/shop/08.jpg" alt="">
                          <div class="product-overlay">
                            <div class="add-to-cart">
                               <a href="shop-single.html">add to cart</a>
@@ -249,7 +249,7 @@ shop -->
                 <div class="col-lg-4 col-md-4 col-sm-6">
                  <div class="product mb-40">
                      <div class="product-image">
-                         <img class="img-fluid mx-auto" src="images/shop/09.jpg" alt="">
+                         <img class="img-fluid mx-auto" src="web/images/shop/09.jpg" alt="">
                          <div class="product-overlay">
                            <div class="add-to-cart">
                               <a href="shop-single.html">add to cart</a>
@@ -300,7 +300,7 @@ shop -->
                 <h5 class="mb-20">Recent items</h5>
                  <div class="recent-item clearfix">
                     <div class="recent-image">
-                        <a href="shop-single.html"><img class="img-fluid" src="images/shop/01.jpg" alt=""></a>
+                        <a href="shop-single.html"><img class="img-fluid" src="web/images/shop/01.jpg" alt=""></a>
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">
@@ -316,7 +316,7 @@ shop -->
                   </div>
                   <div class="recent-item clearfix">
                     <div class="recent-image">
-                        <a href="shop-single.html"><img class="img-fluid" src="images/shop/02.jpg" alt=""></a>
+                        <a href="shop-single.html"><img class="img-fluid" src="web/images/shop/02.jpg" alt=""></a>
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">
@@ -332,7 +332,7 @@ shop -->
                   </div>
                   <div class="recent-item clearfix">
                     <div class="recent-image">
-                        <a href="shop-single.html"><img class="img-fluid" src="images/shop/03.jpg" alt=""></a>
+                        <a href="shop-single.html"><img class="img-fluid" src="web/images/shop/03.jpg" alt=""></a>
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">
@@ -351,7 +351,7 @@ shop -->
                 <h5 class="mb-20">Recently viewed items</h5>
                  <div class="recent-item clearfix">
                     <div class="recent-image">
-                        <a href="shop-single.html"><img class="img-fluid" src="images/shop/04.jpg" alt=""></a>
+                        <a href="shop-single.html"><img class="img-fluid" src="web/images/shop/04.jpg" alt=""></a>
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">
@@ -367,7 +367,7 @@ shop -->
                   </div>
                   <div class="recent-item clearfix">
                     <div class="recent-image">
-                        <a href="shop-single.html"><img class="img-fluid" src="images/shop/05.jpg" alt=""></a>
+                        <a href="shop-single.html"><img class="img-fluid" src="web/images/shop/05.jpg" alt=""></a>
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">
@@ -383,7 +383,7 @@ shop -->
                   </div>
                   <div class="recent-item clearfix">
                     <div class="recent-image">
-                        <a href="shop-single.html"><img class="img-fluid" src="images/shop/06.jpg" alt=""></a>
+                        <a href="shop-single.html"><img class="img-fluid" src="web/images/shop/06.jpg" alt=""></a>
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">
@@ -399,7 +399,7 @@ shop -->
                   </div>
                   <div class="recent-item clearfix">
                     <div class="recent-image">
-                        <a href="shop-single.html"><img class="img-fluid" src="images/shop/07.jpg" alt=""></a>
+                        <a href="shop-single.html"><img class="img-fluid" src="web/images/shop/07.jpg" alt=""></a>
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">
@@ -418,7 +418,7 @@ shop -->
                 <h5 class="mb-20">Popular items</h5>
                  <div class="recent-item clearfix">
                     <div class="recent-image">
-                        <a href="shop-single.html"><img class="img-fluid" src="images/shop/08.jpg" alt=""></a>
+                        <a href="shop-single.html"><img class="img-fluid" src="web/images/shop/08.jpg" alt=""></a>
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">
@@ -434,7 +434,7 @@ shop -->
                   </div>
                   <div class="recent-item clearfix">
                     <div class="recent-image">
-                        <a href="shop-single.html"><img class="img-fluid" src="images/shop/09.jpg" alt=""></a>
+                        <a href="shop-single.html"><img class="img-fluid" src="web/images/shop/09.jpg" alt=""></a>
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">
@@ -450,7 +450,7 @@ shop -->
                   </div>
                   <div class="recent-item clearfix">
                     <div class="recent-image">
-                        <a href="shop-single.html"><img class="img-fluid" src="images/shop/10.jpg" alt=""></a>
+                        <a href="shop-single.html"><img class="img-fluid" src="web/images/shop/10.jpg" alt=""></a>
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">
@@ -466,7 +466,7 @@ shop -->
                   </div>
                   <div class="recent-item mb-0 clearfix">
                     <div class="recent-image">
-                        <a href="shop-single.html"><img class="img-fluid" src="images/shop/11.jpg" alt=""></a>
+                        <a href="shop-single.html"><img class="img-fluid" src="web/images/shop/11.jpg" alt=""></a>
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">

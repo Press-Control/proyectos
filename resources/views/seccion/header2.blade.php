@@ -40,7 +40,7 @@
         <!-- menu logo -->
         <ul class="menu-logo">
             <li>
-                <a href="index-01.html"><img id="logo_img" src="images/logo.png" alt="logo"> </a>
+                <a href="index-01.html"><img id="logo_img" src="web/images/logo.png" alt="logo"> </a>
             </li>
         </ul>
         <!-- menu links -->

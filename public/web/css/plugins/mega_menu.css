@@ -208,7 +208,7 @@
         .mega-menu .drop-down.menu-bg,
         .mega-menu .drop-down-tab-bar { background: rgba(255, 255, 255, 1); background-repeat: no-repeat; background-position: 120% 0; }
         .mega-menu .drop-down.menu-shop-bg,
-        .mega-menu .drop-down-tab-bar { background: rgba(255, 255, 255, 1) url(../../images/objects/menu-shop-bg.jpg); background-repeat: no-repeat; background-position: right; }
+        .mega-menu .drop-down-tab-bar { background: rgba(255, 255, 255, 1) url(../../web/images/objects/menu-shop-bg.jpg); background-repeat: no-repeat; background-position: right; }
         .mega-menu .drop-down.menu-bg [class*="grid-col-"] { padding: 10px 10px 0; }
         .mega-menu .rev-slider { background: #fff; padding: 7px 12px; }
         .mega-menu .rev-slider p { display: inline-block; padding: 0px 10px; margin-bottom: 0px !important; line-height: 0px !important; }

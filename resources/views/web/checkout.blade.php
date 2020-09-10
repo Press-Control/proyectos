@@ -1,6 +1,6 @@
 @extends('farmacia.esqueleto')
   @include('seccion.header2')
-  <section class="page-title bg-overlay-black-60 parallax" data-jarallax='{"speed": 0.6}' style="background-image: url(images/bg/02.jpg);">
+  <section class="page-title bg-overlay-black-60 parallax" data-jarallax='{"speed": 0.6}' style="background-image: url(web/images/bg/02.jpg);">
   <div class="container">
     <div class="row">
       <div class="col-lg-12">

@@ -271,7 +271,7 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
 .header.text-dark .search .search-btn { color: #323232; }
 .header.text-dark .search .search-btn:hover { color: #84ba3f; }
 .header.text-dark .mega-menu .drop-down-multilevel { background: #323232; }
-.header.text-dark .mega-menu .drop-down.menu-bg, .header.text-dark .mega-menu .drop-down-tab-bar {     background: rgba(50, 50, 50, 1) url(../images/objects/menu-bg.png);
+.header.text-dark .mega-menu .drop-down.menu-bg, .header.text-dark .mega-menu .drop-down-tab-bar {     background: rgba(50, 50, 50, 1) url(../web/images/objects/menu-bg.png);
     background-repeat: no-repeat; background-position: 120% 0; }
 .header.text-dark .mega-menu .drop-down, .header.text-dark .mega-menu .drop-down-tab-bar { background: #323232; }
 .header.text-dark .mega-menu .drop-down a, .header.text-dark .mega-menu .drop-down-tab-bar a { color: #ffffff; }
@@ -283,7 +283,7 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
 .header.text-dark .mega-menu .drop-down a:hover, .header.text-dark .mega-menu .drop-down-tab-bar a:hover  { color: #84ba3f; }
 .header.text-dark .mega-menu .menu-links > li.active .drop-down-multilevel a, .header.text-dark .mega-menu .drop-down-multilevel a { color: #ffffff; }
 .header.text-dark .mega-menu .menu-links > li.active .drop-down-multilevel li.active a, .header.text-dark .mega-menu .drop-down-multilevel li:hover { background: #282828; }
-.header.text-dark .mega-menu .drop-down.menu-shop-bg { background: rgba(50, 50, 50, 1) url(../images/objects/menu-shop-bg.jpg) !important;  background-repeat: no-repeat;     background-position: right;}
+.header.text-dark .mega-menu .drop-down.menu-shop-bg { background: rgba(50, 50, 50, 1) url(../web/images/objects/menu-shop-bg.jpg) !important;  background-repeat: no-repeat;     background-position: right;}
 .header.text-dark .mega-menu .menu-links > li.active .drop-down-multilevel a:hover, .header.text-dark .mega-menu .drop-down-multilevel a:hover { color: #84ba3f; }
 .header.text-dark .mega-menu .menu-links > li.active .drop-down-multilevel li.active a { color: #84ba3f; background: #282828; }
 .header.text-dark .mega-menu .menu-links > li.active .drop-down-multilevel li.active .drop-down-multilevel li a { color: #ffffff; background:transparent; }
@@ -304,7 +304,7 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
 .header.text-dark .mega-menu .drop-down-multilevel li.active a i.fa-indicator { color: #84ba3f; }
 /*dark-dropdown*/
 .header.dark-dropdown .mega-menu .drop-down-multilevel { background: #323232; }
-.header.dark-dropdown .mega-menu .drop-down.menu-bg, .header.dark-dropdown .mega-menu .drop-down-tab-bar {     background: rgba(50, 50, 50, 1) url(../images/objects/menu-bg.png);
+.header.dark-dropdown .mega-menu .drop-down.menu-bg, .header.dark-dropdown .mega-menu .drop-down-tab-bar {     background: rgba(50, 50, 50, 1) url(../web/images/objects/menu-bg.png);
     background-repeat: no-repeat; background-position: 120% 0; }
 .header.dark-dropdown .mega-menu .drop-down, .header.dark-dropdown .mega-menu .drop-down-tab-bar { background: #323232; }
 .header.dark-dropdown .mega-menu .drop-down a, .header.dark-dropdown .mega-menu .drop-down-tab-bar a { color: #ffffff; }
@@ -316,7 +316,7 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
 .header.dark-dropdown .mega-menu .drop-down a:hover, .header.dark-dropdown .mega-menu .drop-down-tab-bar a:hover  { color: #84ba3f; }
 .header.dark-dropdown .mega-menu .menu-links > li.active .drop-down-multilevel a, .header.dark-dropdown .mega-menu .drop-down-multilevel a { color: #ffffff; }
 .header.dark-dropdown .mega-menu .menu-links > li.active .drop-down-multilevel li.active a, .header.dark-dropdown .mega-menu .drop-down-multilevel li:hover { background: #282828; }
-.header.dark-dropdown .mega-menu .drop-down.menu-shop-bg { background: rgba(50, 50, 50, 1) url(../images/objects/menu-shop-bg.jpg) !important;  background-repeat: no-repeat;     background-position: right;}
+.header.dark-dropdown .mega-menu .drop-down.menu-shop-bg { background: rgba(50, 50, 50, 1) url(../web/images/objects/menu-shop-bg.jpg) !important;  background-repeat: no-repeat;     background-position: right;}
 .header.dark-dropdown .mega-menu .menu-links > li.active .drop-down-multilevel a:hover, .header.dark-dropdown .mega-menu .drop-down-multilevel a:hover { color: #84ba3f; }
 .header.dark-dropdown .mega-menu .menu-links > li.active .drop-down-multilevel li.active a { color: #84ba3f; background: #282828; }
 .header.dark-dropdown .mega-menu .menu-links > li.active .drop-down-multilevel li.active .drop-down-multilevel li a { color: #ffffff; background:transparent; }
@@ -663,9 +663,9 @@ margin-left: -17px; line-height: 50px; }
 .feature-step a:hover { color: #323232; }
 
 .feature-step-2-box { padding: 70px 30px; z-index: 99; position: relative; }
-.feature-step-2.bg-01 { background: url(../images/blog/05.jpg); background-repeat: no-repeat; background-size: cover; }
-.feature-step-2.bg-02 { background: url(../images/blog/06.jpg); background-repeat: no-repeat; background-size: cover; }
-.feature-step-2.bg-03 { background: url(../images/blog/09.jpg); background-repeat: no-repeat; background-size: cover; }
+.feature-step-2.bg-01 { background: url(../web/images/blog/05.jpg); background-repeat: no-repeat; background-size: cover; }
+.feature-step-2.bg-02 { background: url(../web/images/blog/06.jpg); background-repeat: no-repeat; background-size: cover; }
+.feature-step-2.bg-03 { background: url(../web/images/blog/09.jpg); background-repeat: no-repeat; background-size: cover; }
 .feature-step-2.bg-overlay-black-50:before { z-index: 0; }
 .feature-step-2 .feature-step-2-title-left h1 { font-size: 75px; line-height: 60px; color: #ffffff; }
 .feature-step-2 h3 { margin-bottom: 0; }
@@ -934,7 +934,7 @@ a.blog-btn i {  margin-left: 10px; -webkit-transition: all 0.3s ease-out 0s; -mo
 .blog-entry .grid-post li .portfolio-item { width: 100%; }
 
  /*blog-entry-audio*/
- .blog-entry .blog-entry-audio { padding: 136px 20px; background: url(../images/blog/04.jpg) no-repeat; background-position: center center; background-size: cover; }
+ .blog-entry .blog-entry-audio { padding: 136px 20px; background: url(../web/images/blog/04.jpg) no-repeat; background-position: center center; background-size: cover; }
 
  /*blog pages*/
  /*blog-grid-3-column*/
@@ -1464,7 +1464,7 @@ img.logo-small { height: 40px; margin: 30px 0; position: relative; }
 *************************/
 .parallax {   background-size: cover !important; -webkit-background-size: cover !important; -moz-background-size: cover !important; -ms-background-size: cover !important;  position: relative; z-index: 0; background-origin: initial; background-position: center center !important; background-repeat: no-repeat;  }
 .gradient-overlay{position:relative;}
-.gradient-overlay:before{content:""; width:100%; height:100%; position:absolute; left:0; top:0; z-index:-1; background:url(../images/construction/bg/gradient-overlay1.png) repeat-y left 0;}
+.gradient-overlay:before{content:""; width:100%; height:100%; position:absolute; left:0; top:0; z-index:-1; background:url(../web/images/construction/bg/gradient-overlay1.png) repeat-y left 0;}
 
 /*************************************
           Footer

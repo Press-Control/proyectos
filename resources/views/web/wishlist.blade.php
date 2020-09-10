@@ -1,7 +1,7 @@
 @extends('farmacia.esqueleto')
   @include('seccion.header2')
 
-<section class="page-title bg-overlay-black-60 parallax" data-jarallax='{"speed": 0.6}' style="background-image: url(images/bg/02.jpg);">
+<section class="page-title bg-overlay-black-60 parallax" data-jarallax='{"speed": 0.6}' style="background-image: url(web/images/bg/02.jpg);">
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
@@ -45,7 +45,7 @@ shop -->
                   <tbody>
                    <tr>
                      <td class="image">
-                         <a class="media-link" href="#"> <img class="img-fluid" src="images/shop/01.jpg" alt=""/></a>
+                         <a class="media-link" href="#"> <img class="img-fluid" src="web/images/shop/01.jpg" alt=""/></a>
                         </td>
                          <td class="description">
                           <a href="#">T-Shirt With Spliced All Over Print</a>
@@ -61,7 +61,7 @@ shop -->
                       </tr>
                       <tr>
                          <td class="image">
-                           <a class="media-link" href="#"> <img class="img-fluid" src="images/shop/02.jpg" alt=""/></a>
+                           <a class="media-link" href="#"> <img class="img-fluid" src="web/images/shop/02.jpg" alt=""/></a>
                           </td>
                           <td class="description">
                               <a href="#">French Connection Tank</a>
@@ -77,7 +77,7 @@ shop -->
                       </tr>
                       <tr>
                          <td class="image">
-                           <a class="media-link" href="#"> <img class="img-fluid" src="images/shop/03.jpg" alt=""/></a>
+                           <a class="media-link" href="#"> <img class="img-fluid" src="web/images/shop/03.jpg" alt=""/></a>
                           </td>
                           <td class="description">
                               <a href="#">T-Shirt With Spliced All Over Print</a>
@@ -93,7 +93,7 @@ shop -->
                       </tr>
                       <tr>
                          <td class="image">
-                           <a class="media-link" href="#"> <img class="img-fluid" src="images/shop/04.jpg" alt=""/></a>
+                           <a class="media-link" href="#"> <img class="img-fluid" src="web/images/shop/04.jpg" alt=""/></a>
                           </td>
                           <td class="description">
                               <a href="#">French Connection Tank</a>
@@ -109,7 +109,7 @@ shop -->
                       </tr>
                       <tr>
                        <td class="image">
-                           <a class="media-link" href="#"> <img class="img-fluid" src="images/shop/05.jpg" alt=""/></a>
+                           <a class="media-link" href="#"> <img class="img-fluid" src="web/images/shop/05.jpg" alt=""/></a>
                           </td>
                            <td class="description">
                             <a href="#">T-Shirt With Spliced All Over Print</a>

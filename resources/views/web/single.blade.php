@@ -1,6 +1,6 @@
 @extends('farmacia.esqueleto')
   @include('seccion.header2')
-  <section class="page-title bg-overlay-black-60 parallax" data-jarallax='{"speed": 0.6}' style="background-image: url(images/bg/02.jpg);">
+  <section class="page-title bg-overlay-black-60 parallax" data-jarallax='{"speed": 0.6}' style="background-image: url(web/images/bg/02.jpg);">
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
@@ -33,20 +33,20 @@ shop -->
            <div class="col-lg-6">
              <div class="slider-slick">
               <div class="slider slider-for detail-big-car-gallery">
-                    <img class="img-fluid" src="images/shop/detail/big/01.jpg" alt="">
-                    <img class="img-fluid" src="images/shop/detail/big/02.jpg" alt="">
-                    <img class="img-fluid" src="images/shop/detail/big/03.jpg" alt="">
-                    <img class="img-fluid" src="images/shop/detail/big/04.jpg" alt="">
-                    <img class="img-fluid" src="images/shop/detail/big/05.jpg" alt="">
-                    <img class="img-fluid" src="images/shop/detail/big/06.jpg" alt="">
+                    <img class="img-fluid" src="web/images/shop/detail/big/01.jpg" alt="">
+                    <img class="img-fluid" src="web/images/shop/detail/big/02.jpg" alt="">
+                    <img class="img-fluid" src="web/images/shop/detail/big/03.jpg" alt="">
+                    <img class="img-fluid" src="web/images/shop/detail/big/04.jpg" alt="">
+                    <img class="img-fluid" src="web/images/shop/detail/big/05.jpg" alt="">
+                    <img class="img-fluid" src="web/images/shop/detail/big/06.jpg" alt="">
                 </div>
                 <div class="slider slider-nav">
-                    <img class="img-fluid" src="images/shop/detail/thum/01.jpg" alt="">
-                    <img class="img-fluid" src="images/shop/detail/thum/02.jpg" alt="">
-                    <img class="img-fluid" src="images/shop/detail/thum/03.jpg" alt="">
-                    <img class="img-fluid" src="images/shop/detail/thum/04.jpg" alt="">
-                    <img class="img-fluid" src="images/shop/detail/thum/05.jpg" alt="">
-                    <img class="img-fluid" src="images/shop/detail/thum/06.jpg" alt="">
+                    <img class="img-fluid" src="web/images/shop/detail/thum/01.jpg" alt="">
+                    <img class="img-fluid" src="web/images/shop/detail/thum/02.jpg" alt="">
+                    <img class="img-fluid" src="web/images/shop/detail/thum/03.jpg" alt="">
+                    <img class="img-fluid" src="web/images/shop/detail/thum/04.jpg" alt="">
+                    <img class="img-fluid" src="web/images/shop/detail/thum/05.jpg" alt="">
+                    <img class="img-fluid" src="web/images/shop/detail/thum/06.jpg" alt="">
                 </div>
              </div>
            </div>
@@ -160,7 +160,7 @@ shop -->
               <div class="blog-comments mt-40">
                         <div class="comments-1">
                             <div class="comments-photo">
-                                <img src="images/team/08.jpg" alt="">
+                                <img src="web/images/team/08.jpg" alt="">
                             </div>
                             <div class="comments-info">
                                 <h6> Michael Bean <span>Sep 15, 2018</span></h6>
@@ -172,7 +172,7 @@ shop -->
                         </div>
                         <div class="comments-1">
                             <div class="comments-photo">
-                                <img src="images/team/08.jpg" alt="">
+                                <img src="web/images/team/08.jpg" alt="">
                             </div>
                             <div class="comments-info">
                                 <h6> Joana Williams <span>Oct 02, 2018</span></h6>
@@ -199,7 +199,7 @@ shop -->
               <div class="item">
                 <div class="product">
                  <div class="product-image">
-                     <img class="img-fluid mx-auto" src="images/shop/01.jpg" alt="">
+                     <img class="img-fluid mx-auto" src="web/images/shop/01.jpg" alt="">
                      <div class="product-overlay">
                        <div class="add-to-cart">
                           <a href="shop-single.html">add to cart</a>
@@ -226,7 +226,7 @@ shop -->
            <div class="item">
                 <div class="product">
                  <div class="product-image">
-                     <img class="img-fluid mx-auto" src="images/shop/02.jpg" alt="">
+                     <img class="img-fluid mx-auto" src="web/images/shop/02.jpg" alt="">
                      <div class="product-overlay">
                        <div class="add-to-cart">
                           <a href="shop-single.html">add to cart</a>
@@ -253,7 +253,7 @@ shop -->
            <div class="item">
                 <div class="product">
                  <div class="product-image">
-                     <img class="img-fluid mx-auto" src="images/shop/03.jpg" alt="">
+                     <img class="img-fluid mx-auto" src="web/images/shop/03.jpg" alt="">
                      <div class="product-overlay">
                        <div class="add-to-cart">
                           <a href="shop-single.html">add to cart</a>
@@ -280,7 +280,7 @@ shop -->
            <div class="item">
                 <div class="product">
                  <div class="product-image">
-                     <img class="img-fluid mx-auto" src="images/shop/04.jpg" alt="">
+                     <img class="img-fluid mx-auto" src="web/images/shop/04.jpg" alt="">
                      <div class="product-overlay">
                        <div class="add-to-cart">
                           <a href="shop-single.html">add to cart</a>
@@ -333,7 +333,7 @@ shop -->
                 <h5 class="mb-20">Recent items</h5>
                  <div class="recent-item clearfix">
                     <div class="recent-image">
-                        <a href="shop-single.html"><img class="img-fluid" src="images/shop/01.jpg" alt=""></a>
+                        <a href="shop-single.html"><img class="img-fluid" src="web/images/shop/01.jpg" alt=""></a>
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">
@@ -349,7 +349,7 @@ shop -->
                   </div>
                   <div class="recent-item clearfix">
                     <div class="recent-image">
-                        <a href="shop-single.html"><img class="img-fluid" src="images/shop/02.jpg" alt=""></a>
+                        <a href="shop-single.html"><img class="img-fluid" src="web/images/shop/02.jpg" alt=""></a>
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">
@@ -365,7 +365,7 @@ shop -->
                   </div>
                   <div class="recent-item clearfix">
                     <div class="recent-image">
-                        <a href="shop-single.html"><img class="img-fluid" src="images/shop/03.jpg" alt=""></a>
+                        <a href="shop-single.html"><img class="img-fluid" src="web/images/shop/03.jpg" alt=""></a>
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">
@@ -384,7 +384,7 @@ shop -->
                 <h5 class="mb-20">Popular items</h5>
                  <div class="recent-item clearfix">
                     <div class="recent-image">
-                        <a href="shop-single.html"><img class="img-fluid" src="images/shop/08.jpg" alt=""></a>
+                        <a href="shop-single.html"><img class="img-fluid" src="web/images/shop/08.jpg" alt=""></a>
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">
@@ -400,7 +400,7 @@ shop -->
                   </div>
                   <div class="recent-item clearfix">
                     <div class="recent-image">
-                        <a href="shop-single.html"><img class="img-fluid" src="images/shop/09.jpg" alt=""></a>
+                        <a href="shop-single.html"><img class="img-fluid" src="web/images/shop/09.jpg" alt=""></a>
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">
@@ -416,7 +416,7 @@ shop -->
                   </div>
                   <div class="recent-item clearfix">
                     <div class="recent-image">
-                        <a href="shop-single.html"><img class="img-fluid" src="images/shop/10.jpg" alt=""></a>
+                        <a href="shop-single.html"><img class="img-fluid" src="web/images/shop/10.jpg" alt=""></a>
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">
@@ -432,7 +432,7 @@ shop -->
                   </div>
                   <div class="recent-item mb-0 clearfix">
                     <div class="recent-image">
-                        <a href="shop-single.html"><img class="img-fluid" src="images/shop/11.jpg" alt=""></a>
+                        <a href="shop-single.html"><img class="img-fluid" src="web/images/shop/11.jpg" alt=""></a>
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">
@@ -469,16 +469,16 @@ shop -->
           <div class="widget-clients">
             <div class="owl-carousel" data-nav-dots="false" data-items="1" data-md-items="1" data-sm-items="1" data-xs-items="1" data-xx-items="1">
               <div class="item">
-                <img class="img-fluid mx-auto" src="images/clients/01.png" alt="">
+                <img class="img-fluid mx-auto" src="web/images/clients/01.png" alt="">
               </div>
               <div class="item">
-                <img class="img-fluid mx-auto" src="images/clients/02.png" alt="">
+                <img class="img-fluid mx-auto" src="web/images/clients/02.png" alt="">
               </div>
               <div class="item">
-                <img class="img-fluid mx-auto" src="images/clients/03.png" alt="">
+                <img class="img-fluid mx-auto" src="web/images/clients/03.png" alt="">
               </div>
               <div class="item">
-                <img class="img-fluid mx-auto" src="images/clients/04.png" alt="">
+                <img class="img-fluid mx-auto" src="web/images/clients/04.png" alt="">
               </div>
             </div>
           </div>
