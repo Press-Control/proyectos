@@ -5,8 +5,8 @@
     <div class="row">
       <div class="col-lg-12">
       <div class="page-title-name">
-          <h1>Shop checkout</h1>
-          <p>We know the secret of your success</p>
+          <h1>Pagos</h1>
+          <p>Descripción</p>
         </div>
           <ul class="page-breadcrumb">
             <li><a href="#"><i class="fa fa-home"></i> Home</a> <i class="fa fa-angle-double-right"></i></li>
@@ -20,8 +20,6 @@
 
 <!--=================================
 page-title -->
-
-
 <!--=================================
 checkout -->
 
@@ -29,21 +27,21 @@ checkout -->
     <div class="container">
       <div class="row">
           <div class="col-lg-6 col-md-6">
-            <h2 class="mb-20">Billing details</h2>
+            <h2 class="mb-20">Facturación</h2>
             <div class="section-field mb-30">
-               <label class="mb-10">First name * </label>
-               <input id="name" type="text" placeholder="First name *" class="form-control"  name="name">
+               <label class="mb-10">Apellido * </label>
+               <input id="name" type="text" placeholder="Apellido *" class="form-control"  name="name">
            </div>
            <div class="section-field mb-30">
-               <label class="mb-10">Last name * </label>
-               <input id="name" type="text" placeholder="First name *" class="form-control"  name="name">
+               <label class="mb-10">Nombre * </label>
+               <input id="name" type="text" placeholder="Nombre *" class="form-control"  name="name">
            </div>
            <div class="section-field mb-30">
-               <label class="mb-10">Company name * </label>
-               <input id="name" type="text" placeholder="Company name *" class="form-control"  name="name">
+               <label class="mb-10">Companía * </label>
+               <input id="name" type="text" placeholder="Companía *" class="form-control"  name="name">
            </div>
            <div class="section-field mb-30">
-               <label class="mb-10">Country * </label>
+               <label class="mb-10">Región * </label>
                <div class="box">
                 <select class="wide fancyselect mb-30">
                   <option value="1">Some option</option>
@@ -54,12 +52,12 @@ checkout -->
               </div>
            </div>
             <div class="section-field mb-30">
-               <label class="mb-10">Street address * </label>
-               <input type="text" class="not-click form-control mb-10" placeholder="Address 1" value="" name="s">
-               <input type="text" class="not-click form-control" placeholder="Address 2" value="" name="s">
+               <label class="mb-10">Número de calle * </label>
+               <input type="text" class="not-click form-control mb-10" placeholder="Calle 1" value="" name="s">
+               <input type="text" class="not-click form-control" placeholder="Calle 2" value="" name="s">
            </div>
            <div class="section-field mb-30">
-               <label class="mb-10">State / County * </label>
+               <label class="mb-10">Estado * </label>
                <div class="box">
                 <select class="wide fancyselect mb-30">
                   <option value="1">Some option</option>
@@ -70,41 +68,41 @@ checkout -->
               </div>
            </div>
            <div class="section-field mb-30">
-               <label class="mb-10">Postcode / ZIP * </label>
-               <input id="name" type="text" placeholder="First name *" class="form-control"  name="name">
+               <label class="mb-10">Código postal * </label>
+               <input id="name" type="text" placeholder="Postal" class="form-control"  name="name">
            </div>
            <div class="section-field mb-30">
-               <label class="mb-10">Phone * </label>
+               <label class="mb-10">Teléfono * </label>
               <input id="name" type="text" placeholder="Phone *" class="form-control"  name="name">
            </div>
            <div class="section-field mb-30">
-               <label class="mb-10">Email address * </label>
-              <input id="name" type="text" placeholder="Phone *" class="form-control"  name="name">
+               <label class="mb-10">Email * </label>
+              <input id="name" type="text" placeholder="Email *" class="form-control"  name="name">
            </div>
            <div class="section-field mb-30">
             <div class="form-check">
                 <label class="form-check-label">
-                  <input type="checkbox" class="form-check-input" value="">Create an account?
+                  <input type="checkbox" class="form-check-input" value="">Crear cuenta?
                 </label>
                 </div>
            </div>
          </div>
          <div class="col-lg-6 col-md-6">
-            <h2 class="mb-20">Ship to a different address?</h2>
+            <h2 class="mb-20">Comprar con otra dirección?</h2>
             <div class="section-field mb-30">
-               <label class="mb-10">First name * </label>
-               <input id="name" type="text" placeholder="First name *" class="form-control"  name="name">
+               <label class="mb-10">Apellido * </label>
+               <input id="name" type="text" placeholder="Apellido *" class="form-control"  name="name">
            </div>
            <div class="section-field mb-30">
-               <label class="mb-10">Last name * </label>
-               <input id="name" type="text" placeholder="First name *" class="form-control"  name="name">
+               <label class="mb-10">Nombre * </label>
+               <input id="name" type="text" placeholder="Nombre *" class="form-control"  name="name">
            </div>
            <div class="section-field mb-30">
-               <label class="mb-10">Company name * </label>
-               <input id="name" type="text" placeholder="Company name *" class="form-control"  name="name">
+               <label class="mb-10">Companía * </label>
+               <input id="name" type="text" placeholder="Companía *" class="form-control"  name="name">
            </div>
            <div class="section-field mb-30">
-               <label class="mb-10">Country * </label>
+               <label class="mb-10">Región * </label>
                <div class="box">
                 <select class="wide fancyselect mb-30">
                   <option value="1">Some option</option>
@@ -115,12 +113,12 @@ checkout -->
               </div>
            </div>
             <div class="section-field mb-30">
-               <label class="mb-10">Street address * </label>
-               <input type="text" class="not-click form-control mb-10" placeholder="Address 1" value="" name="s">
-               <input type="text" class="not-click form-control" placeholder="Address 2" value="" name="s">
+               <label class="mb-10">Número de calle * </label>
+               <input type="text" class="not-click form-control mb-10" placeholder="Calle 1" value="" name="s">
+               <input type="text" class="not-click form-control" placeholder="Calle 2" value="" name="s">
            </div>
            <div class="section-field mb-30">
-               <label class="mb-10">State / County * </label>
+               <label class="mb-10">Estado * </label>
                <div class="box">
                 <select class="wide fancyselect mb-30">
                   <option value="1">Some option</option>
@@ -131,11 +129,11 @@ checkout -->
               </div>
            </div>
            <div class="section-field mb-30">
-               <label class="mb-10">Postcode / ZIP * </label>
-               <input id="name" type="text" placeholder="First name *" class="form-control"  name="name">
+               <label class="mb-10">Código postal * </label>
+               <input id="name" type="text" placeholder="Postal *" class="form-control"  name="name">
            </div>
            <div class="section-field mb-30">
-               <label class="mb-10">Order notes * </label>
+               <label class="mb-10">Notas * </label>
                <textarea class="form-control input-message" placeholder="Note" rows="7" name="message"></textarea>
            </div>
          </div>
@@ -145,7 +143,7 @@ checkout -->
              <table class="table table-responsive">
                 <thead>
                 <tr>
-                  <th>Product</th>
+                  <th>Producto</th>
                   <th>Total</th>
                 </tr>
                 </thead>
@@ -171,16 +169,16 @@ checkout -->
                     </td>
                 </tr>
                 <tr>
-                   <th>Shipping</th>
+                   <th>Envío</th>
                   <td>
                     <div class="clearfix">
                        <label>
-                        <input type="radio" name="total1"> <span>Free Shipping</span>
+                        <input type="radio" name="total1"> <span>GRATIS</span>
                       </label>
                     </div>
                     <div class="clearfix">
                       <label>
-                        <input type="radio" name="total1"> <span>Flat Rate:</span>
+                        <input type="radio" name="total1"> <span>Precio:</span>
                       </label>
                       <span> $10.00</span>
                     </div>
@@ -196,21 +194,21 @@ checkout -->
            <div class="col-md-6">
              <div class="clearfix">
               <label>
-                <input type="radio" name="total2"> <span>Free Shipping</span>
+                <input type="radio" name="total2"> <span>Envío gratis</span>
               </label>
             </div>
             <div class="radio mb-30">
               <label>
-                <input type="radio" name="total2"> <span>Flat Rate</span>
+                <input type="radio" name="total2"> <span>Precio: </span>
               </label>
               <span> $10.00</span>
             </div>
             <div class="section-field mb-30">
-               <label class="mb-10">Name on Card * </label>
+               <label class="mb-10">Nombre de la tarjeta * </label>
                <input id="name" type="text" placeholder="Name on Card *" class="form-control"  name="name">
            </div>
            <div class="section-field mb-30">
-               <label class="mb-10">Credit Card Type * </label>
+               <label class="mb-10">Tipo de tarjeta * </label>
                <div class="box">
                 <select class="wide fancyselect mb-30">
                   <option value="1">Type</option>
@@ -221,23 +219,23 @@ checkout -->
               </div>
            </div>
            <div class="section-field mb-30">
-               <label class="mb-10">Credit Card Number *</label>
+               <label class="mb-10">Número de tarjeta *</label>
                <input id="name" type="text" placeholder="Credit Card Number *" class="form-control"  name="name">
            </div>
            <div class="section-field mb-30">
-               <label class="mb-10">Card Verification Number*</label>
+               <label class="mb-10">Verficación*</label>
                <input id="name" type="text" placeholder="Card Verification Number*" class="form-control"  name="name">
            </div>
             <div class="gray-bg  pl-50 pr-50 pt-50 pb-50">
              <table class="mb-30">
                 <tbody>
                   <tr>
-                   <th class="pl-40"><h3>GRAND TOTAL:</h3> </th>
+                   <th class="pl-40"><h3>TOTAL:</h3> </th>
                    <td class="pl-40"><h3>$197.00</h3></td>
                    </tr>
                   </tbody>
                 </table>
-                 <a href="#" class="button btn-block">Place Order Now <span class="icon-action-redo"></span></a>
+                 <a href="#" class="button btn-block">Comprar <span class="icon-action-redo"></span></a>
                </div>
            </div>
         </div>
@@ -256,8 +254,8 @@ action box- -->
     <div class="row">
      <div class="col-lg-12 col-md-12">
        <div class="action-box-text">
-        <h3><strong> Webster: </strong> The most powerful template ever on the market</h3>
-        <p>Create tailor-cut websites with the exclusive multi-purpose responsive template along with powerful features.</p>
+        <h3><strong> Webster: </strong> La mejor tienda en línea</h3>
+        <p>Descripción.</p>
       </div>
       <div class="action-box-button">
         <a class="button button-border white" href="#">

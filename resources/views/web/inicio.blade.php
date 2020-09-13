@@ -95,9 +95,9 @@
        </div>
         <div class="col-lg-3 col-sm-6">
        <div class="newsletter fancy text-center">
-         <input class="form-control placeholder" type="text" placeholder="Email address" name="email1" value="">
+         <input class="form-control placeholder" type="text" placeholder="Email address" name="email1" value="" style="padding-right: 140px;">
           <div class="clear">
-            <button type="submit" name="submitbtn" class="button form-button">Like y Subscribete</button>
+            <button type="submit" name="submitbtn" class="button form-button">Subscribe</button>
           </div>
           </div>
        </div>
@@ -239,10 +239,10 @@ deal-banner -->
  <div class="container">
   <div class="row justify-content-center">
     <div class="col-md-10 text-center pt-50 pb-50">
-     <h2 class="text-white">Women’s lookbook </h2>
-       <p class="text-white mt-20 mb-30">Best Watches available on the cheapest prices at Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
-        <a class="button white button-border" href="#">Shop Now </a>
-        <a class="button white ml-10" href="#">Get deale</a>
+     <h2 class="text-white">Promoción/Producto </h2>
+       <p class="text-white mt-20 mb-30">Los mejores productos del mercado </p>
+        <a class="button white button-border" href="#">Comprar ahora</a>
+        <a class="button white ml-10" href="#">Conseguir trato</a>
     </div>
    </div>
  </div>
@@ -259,7 +259,7 @@ product -->
     <div class="row">
      <div class="col-lg-12 col-md-12">
          <div class="section-title text-center">
-            <h2 class="title-effect">Featured products</h2>
+            <h2 class="title-effect">Productos destacados</h2>
           </div>
        </div>
     </div>
@@ -272,13 +272,13 @@ product -->
                  <img class="img-fluid mx-auto" src="web/images/shop/01.jpg" alt="">
                  <div class="product-overlay">
                    <div class="add-to-cart">
-                      <a href="shop-single.html">add to cart</a>
+                      <a href="shop-single.html">añadir al carrito</a>
                    </div>
                  </div>
               </div>
               <div class="product-des">
                  <div class="product-title">
-                   <a class="text-black" href="shop-single.html">Product name</a>
+                   <a class="text-black" href="shop-single.html">Nombre del producto </a>
                  </div>
               <div class="product-price">
                     <del>$24.99</del> <ins>$12.49</ins>
@@ -292,13 +292,13 @@ product -->
                  <img class="img-fluid mx-auto" src="web/images/shop/02.jpg" alt="">
                  <div class="product-overlay">
                    <div class="add-to-cart">
-                      <a href="shop-single.html">add to cart</a>
+                      <a href="shop-single.html">añadir al carrito</a>
                    </div>
                  </div>
               </div>
               <div class="product-des">
                  <div class="product-title">
-                   <a class="text-black" href="shop-single.html">Product name</a>
+                   <a class="text-black" href="shop-single.html">Nombre del producto </a>
                  </div>
               <div class="product-price">
                     <del>$24.99</del> <ins>$12.49</ins>
@@ -312,13 +312,13 @@ product -->
                  <img class="img-fluid mx-auto" src="web/images/shop/03.jpg" alt="">
                  <div class="product-overlay">
                    <div class="add-to-cart">
-                      <a href="shop-single.html">add to cart</a>
+                      <a href="shop-single.html">añadir al carrito</a>
                    </div>
                  </div>
               </div>
               <div class="product-des">
                  <div class="product-title">
-                   <a class="text-black" href="shop-single.html">Product name</a>
+                   <a class="text-black" href="shop-single.html">Nombre del producto</a>
                  </div>
               <div class="product-price">
                     <del>$24.99</del> <ins>$12.49</ins>
@@ -332,13 +332,13 @@ product -->
                  <img class="img-fluid mx-auto" src="web/images/shop/04.jpg" alt="">
                  <div class="product-overlay">
                    <div class="add-to-cart">
-                      <a href="shop-single.html">add to cart</a>
+                      <a href="shop-single.html">añadir al carrito</a>
                    </div>
                  </div>
               </div>
               <div class="product-des">
                  <div class="product-title">
-                   <a class="text-black" href="shop-single.html">Product name</a>
+                   <a class="text-black" href="shop-single.html">Nombre del producto</a>
                  </div>
               <div class="product-price">
                     <del>$24.99</del> <ins>$12.49</ins>
@@ -352,13 +352,13 @@ product -->
                  <img class="img-fluid mx-auto" src="web/images/shop/05.jpg" alt="">
                  <div class="product-overlay">
                    <div class="add-to-cart">
-                      <a href="shop-single.html">add to cart</a>
+                      <a href="shop-single.html">añadir al carrito</a>
                    </div>
                  </div>
               </div>
               <div class="product-des">
                  <div class="product-title">
-                   <a class="text-black" href="shop-single.html">Product name</a>
+                   <a class="text-black" href="shop-single.html">Nombre del producto</a>
                  </div>
               <div class="product-price">
                     <del>$24.99</del> <ins>$12.49</ins>
@@ -384,7 +384,7 @@ blog -->
     <div class="row">
      <div class="col-lg-12 col-md-12">
          <div class="section-title text-center">
-            <h2 class="title-effect">Latest Articles</h2>
+            <h2 class="title-effect">Últimos artículos</h2>
           </div>
        </div>
     </div>
@@ -395,7 +395,7 @@ blog -->
                   <img class="img-fluid" src="web/images/shop/blog/01.jpg" alt="">
                </div>
                <div class="blog-name mt-20">
-                <h4 class="mt-15"><a href="#">Does your life lack meaning</a></h4>
+                <h4 class="mt-15"><a href="#">Descripción del artículo</a></h4>
               <div class="admin">
                    <span>By adimn / <a href="#">Business</a></span>
                  </div>
@@ -408,7 +408,7 @@ blog -->
                   <img class="img-fluid" src="web/images/shop/blog/02.jpg" alt="">
                </div>
                <div class="blog-name mt-20">
-                <h4 class="mt-15"><a href="#">Supercharge your motivation</a></h4>
+                <h4 class="mt-15"><a href="#">Descripción del artículo</a></h4>
               <div class="admin">
                    <span>By adimn / <a href="#">Business</a></span>
                  </div>
@@ -421,7 +421,7 @@ blog -->
                   <img class="img-fluid" src="web/images/shop/blog/03.jpg" alt="">
                </div>
                <div class="blog-name mt-20">
-                <h4 class="mt-15"><a href="#">Helen keller a teller seller</a></h4>
+                <h4 class="mt-15"><a href="#">Descripción del artículo</a></h4>
               <div class="admin">
                    <span>By adimn / <a href="#">Business</a></span>
                  </div>
