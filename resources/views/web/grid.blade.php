@@ -5,13 +5,13 @@
     <div class="row">
       <div class="col-lg-12">
       <div class="page-title-name">
-          <h1>shop listing</h1>
-          <p>We know the secret of your success</p>
+          <h1>Título</h1>
+          <p>Descripción</p>
         </div>
           <ul class="page-breadcrumb">
-            <li><a href="#"><i class="fa fa-home"></i> Home</a> <i class="fa fa-angle-double-right"></i></li>
-            <li><a href="#">shop</a> <i class="fa fa-angle-double-right"></i></li>
-            <li><span>shop listing</span> </li>
+            <li><a href="#"><i class="fa fa-home"></i> Inicio</a> <i class="fa fa-angle-double-right"></i></li>
+            <li><a href="#">Tienda</a> <i class="fa fa-angle-double-right"></i></li>
+            <li><span>Título</span> </li>
        </ul>
      </div>
      </div>
@@ -36,13 +36,13 @@ shop -->
                          <img class="img-fluid mx-auto" src="web/images/shop/01.jpg" alt="">
                          <div class="product-overlay">
                            <div class="add-to-cart">
-                              <a href="shop-single.html">add to cart</a>
+                              <a href="shop-single.html">añadir al carrito</a>
                            </div>
                          </div>
                       </div>
                       <div class="product-des">
                          <div class="product-title">
-                           <a href="shop-single.html">Product name</a>
+                           <a href="shop-single.html">Nombre del producto</a>
                          </div>
                          <div class="product-rating">
                           <i class="fa fa-star"></i>
@@ -63,13 +63,13 @@ shop -->
                          <img class="img-fluid mx-auto" src="web/images/shop/02.jpg" alt="">
                          <div class="product-overlay">
                            <div class="add-to-cart">
-                              <a href="shop-single.html">add to cart</a>
+                              <a href="shop-single.html">añadir al carrito</a>
                            </div>
                          </div>
                       </div>
                       <div class="product-des">
                          <div class="product-title">
-                           <a href="shop-single.html">Product name</a>
+                           <a href="shop-single.html">Nombre del producto</a>
                          </div>
                          <div class="product-rating">
                           <i class="fa fa-star"></i>
@@ -90,13 +90,13 @@ shop -->
                          <img class="img-fluid mx-auto" src="web/images/shop/03.jpg" alt="">
                          <div class="product-overlay">
                            <div class="add-to-cart">
-                              <a href="shop-single.html">add to cart</a>
+                              <a href="shop-single.html">añadir al carrito</a>
                            </div>
                          </div>
                       </div>
                       <div class="product-des">
                          <div class="product-title">
-                           <a href="shop-single.html">Product name</a>
+                           <a href="shop-single.html">Nombre del producto</a>
                          </div>
                          <div class="product-rating">
                           <i class="fa fa-star"></i>
@@ -117,13 +117,13 @@ shop -->
                          <img class="img-fluid mx-auto" src="web/images/shop/04.jpg" alt="">
                          <div class="product-overlay">
                            <div class="add-to-cart">
-                              <a href="shop-single.html">add to cart</a>
+                              <a href="shop-single.html">añadir al carrito</a>
                            </div>
                          </div>
                       </div>
                       <div class="product-des">
                          <div class="product-title">
-                           <a href="shop-single.html">Product name</a>
+                           <a href="shop-single.html">Nombre del producto</a>
                          </div>
                          <div class="product-rating">
                           <i class="fa fa-star"></i>
@@ -144,13 +144,13 @@ shop -->
                          <img class="img-fluid mx-auto" src="web/images/shop/05.jpg" alt="">
                          <div class="product-overlay">
                            <div class="add-to-cart">
-                              <a href="shop-single.html">add to cart</a>
+                              <a href="shop-single.html">añadir al carrito</a>
                            </div>
                          </div>
                       </div>
                       <div class="product-des">
                          <div class="product-title">
-                           <a href="shop-single.html">Product name</a>
+                           <a href="shop-single.html">Nombre del producto</a>
                          </div>
                          <div class="product-rating">
                           <i class="fa fa-star"></i>
@@ -171,13 +171,13 @@ shop -->
                          <img class="img-fluid mx-auto" src="web/images/shop/06.jpg" alt="">
                          <div class="product-overlay">
                            <div class="add-to-cart">
-                              <a href="shop-single.html">add to cart</a>
+                              <a href="shop-single.html">añadir al carrito</a>
                            </div>
                          </div>
                       </div>
                       <div class="product-des">
                          <div class="product-title">
-                           <a href="shop-single.html">Product name</a>
+                           <a href="shop-single.html">Nombre del producto</a>
                          </div>
                          <div class="product-rating">
                           <i class="fa fa-star"></i>
@@ -198,13 +198,13 @@ shop -->
                          <img class="img-fluid mx-auto" src="web/images/shop/07.jpg" alt="">
                          <div class="product-overlay">
                            <div class="add-to-cart">
-                              <a href="shop-single.html">add to cart</a>
+                              <a href="shop-single.html">añadir al carrito</a>
                            </div>
                          </div>
                       </div>
                       <div class="product-des">
                          <div class="product-title">
-                           <a href="shop-single.html">Product name</a>
+                           <a href="shop-single.html">Nombre del producto</a>
                          </div>
                          <div class="product-rating">
                           <i class="fa fa-star"></i>
@@ -225,13 +225,13 @@ shop -->
                          <img class="img-fluid mx-auto" src="web/images/shop/08.jpg" alt="">
                          <div class="product-overlay">
                            <div class="add-to-cart">
-                              <a href="shop-single.html">add to cart</a>
+                              <a href="shop-single.html">añadir al carrito</a>
                            </div>
                          </div>
                       </div>
                       <div class="product-des">
                          <div class="product-title">
-                           <a href="shop-single.html">Product name</a>
+                           <a href="shop-single.html">Nombre del producto</a>
                          </div>
                          <div class="product-rating">
                           <i class="fa fa-star"></i>
@@ -252,13 +252,13 @@ shop -->
                          <img class="img-fluid mx-auto" src="web/images/shop/09.jpg" alt="">
                          <div class="product-overlay">
                            <div class="add-to-cart">
-                              <a href="shop-single.html">add to cart</a>
+                              <a href="shop-single.html">añadir al carrito</a>
                            </div>
                          </div>
                       </div>
                       <div class="product-des">
                          <div class="product-title">
-                           <a href="shop-single.html">Product name</a>
+                           <a href="shop-single.html">Nombre del producto</a>
                          </div>
                          <div class="product-rating">
                           <i class="fa fa-star"></i>
@@ -278,33 +278,33 @@ shop -->
               <div class="col-lg-3 col-md-3">
                 <div class="sidebar-widgets-wrap">
                      <div class="sidebar-widget mb-40">
-                      <h5 class="mb-20">search</h5>
+                      <h5 class="mb-20">Buscar</h5>
                         <div class="widget-search">
                          <i class="fa fa-search"></i>
-                         <input type="search" class="form-control placeholder" placeholder="Search....">
+                         <input type="search" class="form-control placeholder" placeholder="Buscar....">
                        </div>
                  </div>
                 <div class="sidebar-widget mb-40">
-                <h5 class="mb-20">categories</h5>
+                <h5 class="mb-20">Categorías</h5>
                     <div class="widget-link">
                         <ul>
-                            <li> <a href="shop-single.html"> <i class="fa fa-angle-double-right"></i> Hair Accessories </a></li>
-                            <li> <a href="shop-single.html"> <i class="fa fa-angle-double-right"></i> Makeup </a> </li>
-                            <li> <a href="shop-single.html"> <i class="fa fa-angle-double-right"></i> Nail Care (10) </a> </li>
-                            <li> <a href="shop-single.html"> <i class="fa fa-angle-double-right"></i> Therapeutic Supports </a> </li>
-                            <li> <a href="shop-single.html"> <i class="fa fa-angle-double-right"></i> Skin Care (20) </a> </li>
+                            <li> <a href=""> <i class="fa fa-angle-double-right"></i> Categoría 1</a></li>
+                            <li> <a href=""> <i class="fa fa-angle-double-right"></i> Categoría 2 </a> </li>
+                            <li> <a href=""> <i class="fa fa-angle-double-right"></i> Categoría 3 </a> </li>
+                            <li> <a href=""> <i class="fa fa-angle-double-right"></i> Categoría 4 </a> </li>
+                            <li> <a href=""> <i class="fa fa-angle-double-right"></i> Categoría 5 </a> </li>
                         </ul>
                     </div>
                  </div>
                <div class="sidebar-widget mb-40">
-                <h5 class="mb-20">Recent items</h5>
+                <h5 class="mb-20">Productos recientes</h5>
                  <div class="recent-item clearfix">
                     <div class="recent-image">
                         <a href="shop-single.html"><img class="img-fluid" src="web/images/shop/01.jpg" alt=""></a>
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">
-                             <a href="shop-single.html">Product name</a>
+                             <a href="shop-single.html">Nombre del producto</a>
                         </div>
                         <div class="recent-meta">
                            <ul class="list-style-unstyled">
@@ -320,7 +320,7 @@ shop -->
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">
-                             <a href="shop-single.html">Product name</a>
+                             <a href="shop-single.html">Nombre del producto</a>
                         </div>
                         <div class="recent-meta">
                            <ul class="list-style-unstyled">
@@ -336,7 +336,7 @@ shop -->
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">
-                             <a href="shop-single.html">Product name</a>
+                             <a href="shop-single.html">Nombre del producto</a>
                         </div>
                         <div class="recent-meta">
                            <ul class="list-style-unstyled">
@@ -348,14 +348,14 @@ shop -->
                   </div>
                 </div>
                 <div class="sidebar-widget mb-40">
-                <h5 class="mb-20">Recently viewed items</h5>
+                <h5 class="mb-20">Productos vistos</h5>
                  <div class="recent-item clearfix">
                     <div class="recent-image">
                         <a href="shop-single.html"><img class="img-fluid" src="web/images/shop/04.jpg" alt=""></a>
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">
-                             <a href="shop-single.html">Product name</a>
+                             <a href="shop-single.html">Nombre del producto</a>
                         </div>
                         <div class="recent-meta">
                            <ul class="list-style-unstyled">
@@ -371,7 +371,7 @@ shop -->
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">
-                             <a href="shop-single.html">Product name</a>
+                             <a href="shop-single.html">Nombre del producto</a>
                         </div>
                         <div class="recent-meta">
                            <ul class="list-style-unstyled">
@@ -387,7 +387,7 @@ shop -->
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">
-                             <a href="shop-single.html">Product name</a>
+                             <a href="shop-single.html">Nombre del producto</a>
                         </div>
                         <div class="recent-meta">
                            <ul class="list-style-unstyled">
@@ -403,7 +403,7 @@ shop -->
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">
-                             <a href="shop-single.html">Product name</a>
+                             <a href="shop-single.html">Nombre del producto</a>
                         </div>
                         <div class="recent-meta">
                            <ul class="list-style-unstyled">
@@ -415,14 +415,14 @@ shop -->
                   </div>
                 </div>
                 <div class="sidebar-widget mb-0">
-                <h5 class="mb-20">Popular items</h5>
+                <h5 class="mb-20">Productos populares</h5>
                  <div class="recent-item clearfix">
                     <div class="recent-image">
                         <a href="shop-single.html"><img class="img-fluid" src="web/images/shop/08.jpg" alt=""></a>
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">
-                             <a href="shop-single.html">Product name</a>
+                             <a href="shop-single.html">Nombre del producto</a>
                         </div>
                         <div class="recent-meta">
                            <ul class="list-style-unstyled">
@@ -438,7 +438,7 @@ shop -->
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">
-                             <a href="shop-single.html">Product name</a>
+                             <a href="shop-single.html">Nombre del producto</a>
                         </div>
                         <div class="recent-meta">
                            <ul class="list-style-unstyled">
@@ -454,7 +454,7 @@ shop -->
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">
-                             <a href="shop-single.html">Product name</a>
+                             <a href="shop-single.html">Nombre del producto</a>
                         </div>
                         <div class="recent-meta">
                            <ul class="list-style-unstyled">
@@ -470,7 +470,7 @@ shop -->
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">
-                             <a href="shop-single.html">Product name</a>
+                             <a href="shop-single.html">Nombre del producto</a>
                         </div>
                         <div class="recent-meta">
                            <ul class="list-style-unstyled">
@@ -493,23 +493,5 @@ welcome -->
 <!--=================================
 action box- -->
 
-<section class="action-box theme-bg full-width">
-  <div class="container">
-    <div class="row">
-     <div class="col-lg-12 col-md-12">
-       <div class="action-box-text">
-        <h3><strong> Webster: </strong> The most powerful template ever on the market</h3>
-        <p>Create tailor-cut websites with the exclusive multi-purpose responsive template along with powerful features.</p>
-      </div>
-      <div class="action-box-button">
-        <a class="button button-border white" href="#">
-          <span>Purchase Now</span>
-          <i class="fa fa-download"></i>
-       </a>
-     </div>
-    </div>
-  </div>
- </div>
-</section>
-
+  @include('seccion.webseter')
   @include('seccion.footer')

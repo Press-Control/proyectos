@@ -9,9 +9,9 @@
           <p>Descripción</p>
         </div>
           <ul class="page-breadcrumb">
-            <li><a href="#"><i class="fa fa-home"></i> Home</a> <i class="fa fa-angle-double-right"></i></li>
-            <li><a href="#">Shop</a> <i class="fa fa-angle-double-right"></i></li>
-            <li><span>Shop checkout </span> </li>
+            <li><a href="#"><i class="fa fa-home"></i> Inicio</a> <i class="fa fa-angle-double-right"></i></li>
+            <li><a href="#">Tienda</a> <i class="fa fa-angle-double-right"></i></li>
+            <li><span>Pago y envío </span> </li>
        </ul>
      </div>
      </div>
@@ -220,11 +220,11 @@ checkout -->
            </div>
            <div class="section-field mb-30">
                <label class="mb-10">Número de tarjeta *</label>
-               <input id="name" type="text" placeholder="Credit Card Number *" class="form-control"  name="name">
+               <input id="name" type="text" placeholder="Número de tarjeta *" class="form-control"  name="name">
            </div>
            <div class="section-field mb-30">
                <label class="mb-10">Verficación*</label>
-               <input id="name" type="text" placeholder="Card Verification Number*" class="form-control"  name="name">
+               <input id="name" type="text" placeholder="Número de tarjeta*" class="form-control"  name="name">
            </div>
             <div class="gray-bg  pl-50 pr-50 pt-50 pb-50">
              <table class="mb-30">
@@ -249,23 +249,5 @@ checkout -->
 <!--=================================
 action box- -->
 
-<section class="action-box theme-bg full-width">
-  <div class="container">
-    <div class="row">
-     <div class="col-lg-12 col-md-12">
-       <div class="action-box-text">
-        <h3><strong> Webster: </strong> La mejor tienda en línea</h3>
-        <p>Descripción.</p>
-      </div>
-      <div class="action-box-button">
-        <a class="button button-border white" href="#">
-          <span>Purchase Now</span>
-          <i class="fa fa-download"></i>
-       </a>
-     </div>
-    </div>
-  </div>
- </div>
-</section>
-
+  @include('seccion.webseter')
   @include('seccion.footer')

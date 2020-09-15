@@ -145,7 +145,7 @@
                 </div>
             </li>
 
-            <li><a href="javascript:void(0)"> Features <i class="fa fa-angle-down fa-indicator"></i></a>
+            <li><a href="javascript:void(0)"> Características <i class="fa fa-angle-down fa-indicator"></i></a>
                  <!-- drop down multilevel  -->
                 <ul class="drop-down-multilevel">
                     <li><a href="javascript:void(0)">Header<i class="ti-plus fa-indicator"></i></a>
@@ -336,7 +336,7 @@
                     <li><a href="pre-loader.html">Pre loader <span class="badge badge-primary">20+</span> </a></li>
                 </ul>
             </li>
-            <li><a href="javascript:void(0)">Pages <i class="fa fa-angle-down fa-indicator"></i></a>
+            <li><a href="javascript:void(0)">Páginas <i class="fa fa-angle-down fa-indicator"></i></a>
                 <!-- drop down full width -->
                 <div class="drop-down grid-col-12">
                     <!--grid row-->
@@ -470,7 +470,7 @@
                     </li>
                 </ul>
             </li>
-            <li><a href="javascript:void(0)">Portfolio<i class="fa fa-angle-down fa-indicator"></i></a>
+            <li><a href="javascript:void(0)">Portafolio<i class="fa fa-angle-down fa-indicator"></i></a>
                 <!-- drop down multilevel  -->
                 <ul class="drop-down-multilevel left-side">
 
@@ -560,7 +560,7 @@
                     </li>
                 </ul>
             </li>
-            <li><a href="javascript:void(0)">Shop <i class="fa fa-angle-down fa-indicator"></i></a>
+            <li><a href="javascript:void(0)">Tienda <i class="fa fa-angle-down fa-indicator"></i></a>
             <!-- drop down multilevel  -->
               <div class="drop-down grid-col-5 menu-offset-4">
               <!--grid row-->
@@ -592,7 +592,7 @@
                  </div>
                 </div>
              </li>
-            <li><a href="javascript:void(0)"> Shortcodes <i class="fa fa-angle-down fa-indicator"></i></a>
+            <li><a href="javascript:void(0)"> Otros <i class="fa fa-angle-down fa-indicator"></i></a>
               <!-- drop down full width -->
                 <div class="drop-down grid-col-12">
                     <!--grid row-->

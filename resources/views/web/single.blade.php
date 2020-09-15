@@ -1,17 +1,18 @@
 @extends('farmacia.esqueleto')
   @include('seccion.header2')
-  <section class="page-title bg-overlay-black-60 parallax" data-jarallax='{"speed": 0.6}' style="background-image: url(web/images/bg/02.jpg);">
+
+<section class="page-title bg-overlay-black-60 parallax" data-jarallax='{"speed": 0.6}' style="background-image: url(web/images/bg/02.jpg);">
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
       <div class="page-title-name">
-          <h1>Shop details</h1>
-          <p>We know the secret of your success</p>
+          <h1>Detalles de compra</h1>
+          <p>Descripción</p>
         </div>
           <ul class="page-breadcrumb">
-            <li><a href="#"><i class="fa fa-home"></i> Home</a> <i class="fa fa-angle-double-right"></i></li>
-            <li><a href="#">Shop</a> <i class="fa fa-angle-double-right"></i></li>
-            <li><span>Shop details</span> </li>
+            <li><a href="#"><i class="fa fa-home"></i>Inicio</a> <i class="fa fa-angle-double-right"></i></li>
+            <li><a href="#">Tienda</a> <i class="fa fa-angle-double-right"></i></li>
+            <li><span>Detalles de compra</span> </li>
        </ul>
      </div>
      </div>
@@ -53,7 +54,7 @@ shop -->
            <div class="col-lg-6">
              <div class="product-detail clearfix">
               <div class="product-detail-title mb-20 sm-mt-40">
-                  <h4 class="mb-10"> Product name</h4>
+                  <h4 class="mb-10">Nombre del producto</h4>
                   <span>Consectetur lorem ipsum dolor sit amet, adipisicing elit. Accusamus officiis pariatur optio nobis culpa magni labor!  </span>
               </div>
               <div class="clearfix mb-30">
@@ -71,24 +72,24 @@ shop -->
                       <input type="number" name="quant[1]" class="form-control input-number" value="1" min="1" max="10">
                   </div>
                   <div class="product-detail add-to-cart">
-                      <a class="button small" href="#">Add to cart</a>
+                      <a class="button small" href="#">añadir al carrito</a>
                   </div>
                 </div>
                 <div class="product-detail-des mb-30">
-                     <p class="mb-30">Adipisicing elit lorem ipsum dolor sit amet, consectetur. Dicta fugit cupiditate voluptates architecto nam totam ut, aperiam consequuntur aliquam voluptatem provident .</p>
+                     <p class="mb-30">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti sequi illo dignissimos sint rerum omnis laudantium ratione hic neque incidunt nam suscipit expedita sapiente atque, voluptas dicta. Dolorem, repudiandae, nobis.</p>
                    <ul class="list list-unstyled list-arrow">
-                     <li>Voluptatem provident</li>
-                     <li>Aperiam consequuntur</li>
-                     <li>Officia doloremque</li>
+                     <li>Detalles</li>
+                     <li>Detalles</li>
+                     <li>Detalles</li>
                   </ul>
              </div>
              <div class="product-detail-meta">
                  <span>SKU: 8465415 </span>
-                 <span>Category: <a href="#">Shop</a>  </span>
+                 <span>Categoría: <a href="#">"producto"</a>  </span>
                  <span>Tags: <a href="#">Shoes,</a> <a href="#">T-Shirt,</a> <a href="#">Shirt</a>  </span>
              </div>
              <div class="product-detail-social">
-                <span>Share:</span>
+                <span>Compartir:</span>
                  <ul class="list-style-none">
                      <li><a href="#"> <i class="fa fa-facebook"></i> </a></li>
                      <li><a href="#"> <i class="fa fa-twitter"></i> </a></li>
@@ -104,27 +105,25 @@ shop -->
           <div class="tab tab-border mt-50">
           <ul class="nav nav-tabs" id="myTab" role="tablist">
             <li class="nav-item">
-              <a class="nav-link active show" id="description-tab" data-toggle="tab" href="#description" role="tab" aria-controls="description" aria-selected="true">Home</a>
+              <a class="nav-link active show" id="description-tab" data-toggle="tab" href="#description" role="tab" aria-controls="description" aria-selected="true">Inicio</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" id="additional-tab" data-toggle="tab" href="#additional" role="tab" aria-controls="additional" aria-selected="false">Profile </a>
+              <a class="nav-link" id="additional-tab" data-toggle="tab" href="#additional" role="tab" aria-controls="additional" aria-selected="false">Perfil </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" id="reviews-tab" data-toggle="tab" href="#reviews" role="tab" aria-controls="reviews" aria-selected="false">Portfolio </a>
+              <a class="nav-link" id="reviews-tab" data-toggle="tab" href="#reviews" role="tab" aria-controls="reviews" aria-selected="false">Portafolio </a>
             </li>
           </ul>
           <div class="tab-content" id="myTabContent">
             <div class="tab-pane fade active show" id="description" role="tabpanel" aria-labelledby="description-tab">
-              <h6>Consectetur adipisicing elit</h6>
-                 <p class="mt-20">Temporibus possimus quasi beatae, consectetur adipisicing elit. Obcaecati unde molestias sunt officiis aliquid sapiente, numquam, porro perspiciatis neque voluptatem sint hic quam eveniet ad adipisci laudantium corporis ipsam ea!</p>
+              <h6>Título</h6>
+                 <p class="mt-20">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis quis corporis eligendi facere qui non quisquam veniam natus tenetur hic labore assumenda sit ducimus culpa laborum, iusto sunt voluptate impedit.</p>
 
-                  <p class="mt-20">Consectetur adipisicing elit. Dicta, amet quia ad debitis fugiat voluptatem neque dolores tempora iste saepe cupiditate, molestiae iure voluptatibus est beatae? Culpa, illo a You will begin to realize why, consectetur adipisicing elit. Commodi, doloribus, earum modi consectetur molestias asperiores sequi ipsam neque error itaque veniam culpa eligendi similique ducimus nulla, blanditiis, perspiciatis atque saepe! veritatis.</p>
+                  <p class="mt-20">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis quis corporis eligendi facere qui non quisquam veniam natus tenetur hic labore assumenda sit ducimus culpa laborum, iusto sunt voluptate impedit.</p>
 
+                  <p class="mt-20">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis quis corporis eligendi facere qui non quisquam veniam natus tenetur hic labore assumenda sit ducimus culpa laborum, iusto sunt voluptate impedit.</p>
 
-                  <p class="mt-20">Adipisicing consectetur elit. Dicta, amet quia ad debitis fugiat voluptatem neque dolores tempora iste saepe cupiditate, molestiae iure voluptatibus est beatae? Culpa, illo a You will begin to realize why, consectetur adipisicing elit. Commodi, doloribus, earum modi consectetur molestias asperiores.</p>
-
-
-                  <p class="mt-20">Voluptatem adipisicing elit. Dicta, amet quia ad debitis fugiat neque dolores tempora iste saepe cupiditate, molestiae iure voluptatibus est beatae? Culpa, illo a You will begin to realize why, consectetur adipisicing elit. Commodi, You will begin to realize why, consectetur adipisicing elit. Laudantium nisi eaque maxime totam, iusto accusantium esse placeat rem at temporibus minus architecto ipsum eveniet. Delectus cum sunt, ea cumque quas! doloribus, earum modi consectetur molestias asperiores sequi ipsam neque error itaque veniam culpa eligendi similique ducimus nulla, blanditiis, perspiciatis atque saepe! veritatis. </p>
+                  <p class="mt-20">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis quis corporis eligendi facere qui non quisquam veniam natus tenetur hic labore assumenda sit ducimus culpa laborum, iusto sunt voluptate impedit.</p>
             </div>
             <div class="tab-pane fade" id="additional" role="tabpanel" aria-labelledby="additional-tab">
               <table class="table table-bordered">
@@ -202,13 +201,13 @@ shop -->
                      <img class="img-fluid mx-auto" src="web/images/shop/01.jpg" alt="">
                      <div class="product-overlay">
                        <div class="add-to-cart">
-                          <a href="shop-single.html">add to cart</a>
+                          <a href="shop-single.html">añadir al carrito</a>
                        </div>
                      </div>
                   </div>
                   <div class="product-des">
                      <div class="product-title">
-                       <a href="shop-single.html">Product name</a>
+                       <a href="shop-single.html">Nombre del producto</a>
                      </div>
                      <div class="product-rating">
                       <i class="fa fa-star"></i>
@@ -229,13 +228,13 @@ shop -->
                      <img class="img-fluid mx-auto" src="web/images/shop/02.jpg" alt="">
                      <div class="product-overlay">
                        <div class="add-to-cart">
-                          <a href="shop-single.html">add to cart</a>
+                          <a href="shop-single.html">añadir al carrito</a>
                        </div>
                      </div>
                   </div>
                   <div class="product-des">
                      <div class="product-title">
-                       <a href="shop-single.html">Product name</a>
+                       <a href="shop-single.html">Nombre del producto</a>
                      </div>
                      <div class="product-rating">
                       <i class="fa fa-star"></i>
@@ -256,13 +255,13 @@ shop -->
                      <img class="img-fluid mx-auto" src="web/images/shop/03.jpg" alt="">
                      <div class="product-overlay">
                        <div class="add-to-cart">
-                          <a href="shop-single.html">add to cart</a>
+                          <a href="shop-single.html">añadir al carrito</a>
                        </div>
                      </div>
                   </div>
                   <div class="product-des">
                      <div class="product-title">
-                       <a href="shop-single.html">Product name</a>
+                       <a href="shop-single.html">Nombre del producto</a>
                      </div>
                      <div class="product-rating">
                       <i class="fa fa-star"></i>
@@ -283,13 +282,13 @@ shop -->
                      <img class="img-fluid mx-auto" src="web/images/shop/04.jpg" alt="">
                      <div class="product-overlay">
                        <div class="add-to-cart">
-                          <a href="shop-single.html">add to cart</a>
+                          <a href="shop-single.html">añadir al carrito</a>
                        </div>
                      </div>
                   </div>
                   <div class="product-des">
                      <div class="product-title">
-                       <a href="shop-single.html">Product name</a>
+                       <a href="shop-single.html">Nombre del producto</a>
                      </div>
                      <div class="product-rating">
                       <i class="fa fa-star"></i>
@@ -321,11 +320,11 @@ shop -->
                 <h5 class="mb-20">Categories</h5>
                     <div class="widget-link">
                         <ul>
-                            <li> <a href="shop-single.html"> <i class="fa fa-angle-double-right"></i> Product name </a></li>
-                            <li> <a href="shop-single.html"> <i class="fa fa-angle-double-right"></i> Product name </a> </li>
-                            <li> <a href="shop-single.html"> <i class="fa fa-angle-double-right"></i> Product name (10) </a> </li>
-                            <li> <a href="shop-single.html"> <i class="fa fa-angle-double-right"></i> Product name </a> </li>
-                            <li> <a href="shop-single.html"> <i class="fa fa-angle-double-right"></i> Product name (20) </a> </li>
+                            <li> <a href="shop-single.html"> <i class="fa fa-angle-double-right"></i> Nombre del producto </a></li>
+                            <li> <a href="shop-single.html"> <i class="fa fa-angle-double-right"></i> Nombre del producto </a> </li>
+                            <li> <a href="shop-single.html"> <i class="fa fa-angle-double-right"></i> Nombre del producto (10) </a> </li>
+                            <li> <a href="shop-single.html"> <i class="fa fa-angle-double-right"></i> Nombre del producto </a> </li>
+                            <li> <a href="shop-single.html"> <i class="fa fa-angle-double-right"></i> Nombre del producto (20) </a> </li>
                         </ul>
                     </div>
                  </div>
@@ -337,7 +336,7 @@ shop -->
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">
-                             <a href="shop-single.html">Product name</a>
+                             <a href="shop-single.html">Nombre del producto</a>
                         </div>
                         <div class="recent-meta">
                            <ul class="list-style-unstyled">
@@ -353,7 +352,7 @@ shop -->
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">
-                             <a href="shop-single.html">Product name</a>
+                             <a href="shop-single.html">Nombre del producto</a>
                         </div>
                         <div class="recent-meta">
                            <ul class="list-style-unstyled">
@@ -369,7 +368,7 @@ shop -->
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">
-                             <a href="shop-single.html">Product name</a>
+                             <a href="shop-single.html">Nombre del producto</a>
                         </div>
                         <div class="recent-meta">
                            <ul class="list-style-unstyled">
@@ -388,7 +387,7 @@ shop -->
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">
-                             <a href="shop-single.html">Product name</a>
+                             <a href="shop-single.html">Nombre del producto</a>
                         </div>
                         <div class="recent-meta">
                            <ul class="list-style-unstyled">
@@ -404,7 +403,7 @@ shop -->
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">
-                             <a href="shop-single.html">Product name</a>
+                             <a href="shop-single.html">Nombre del producto</a>
                         </div>
                         <div class="recent-meta">
                            <ul class="list-style-unstyled">
@@ -420,7 +419,7 @@ shop -->
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">
-                             <a href="shop-single.html">Product name</a>
+                             <a href="shop-single.html">Nombre del producto</a>
                         </div>
                         <div class="recent-meta">
                            <ul class="list-style-unstyled">
@@ -436,7 +435,7 @@ shop -->
                     </div>
                     <div class="recent-info">
                         <div class="recent-title">
-                             <a href="shop-single.html">Product name</a>
+                             <a href="shop-single.html">Nombre del producto</a>
                         </div>
                         <div class="recent-meta">
                            <ul class="list-style-unstyled">
@@ -448,24 +447,24 @@ shop -->
                   </div>
                 </div>
        <div class="sidebar-widget">
-         <h5 class="mt-40 mb-20">Newsletter</h5>
+         <h5 class="mt-40 mb-20">bOLETÍN INFORMATIVO</h5>
           <div class="widget-newsletter">
           <div class="newsletter-icon">
             <i class="fa fa-envelope-o"></i>
           </div>
           <div class="newsletter-content">
-            <i>Keep up on our always evolving product features and technology. Enter your e-mail and subscribe to our newsletter. </i>
+            <i>Lorem, ipsum dolor, sit amet consectetur adipisicing elit. Animi beatae, ducimus aliquam accusantium omnis, a ipsa nesciunt quo cum? Nisi sunt hic molestiae aliquid, quas est sequi laboriosam dignissimos, debitis. </i>
           </div>
           <div class="newsletter-form mt-20">
               <div class="form-group">
-                  <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Name">
+                  <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Texto">
               </div>
-             <a class="button btn-block" href="#">Submit</a>
+             <a class="button btn-block" href="#">Enviar</a>
           </div>
         </div>
        </div>
         <div class="sidebar-widget">
-         <h5 class="mt-40 mb-20">Our clients</h5>
+         <h5 class="mt-40 mb-20">Nuestros clientes</h5>
           <div class="widget-clients">
             <div class="owl-carousel" data-nav-dots="false" data-items="1" data-md-items="1" data-sm-items="1" data-xs-items="1" data-xx-items="1">
               <div class="item">
@@ -492,27 +491,7 @@ shop -->
 <!--=================================
 shop -->
 
-
 <!--=================================
 action box- -->
-
-<section class="action-box theme-bg full-width">
-  <div class="container">
-    <div class="row">
-     <div class="col-lg-12 col-md-12">
-       <div class="action-box-text">
-        <h3><strong> Webster: </strong> The most powerful template ever on the market</h3>
-        <p>Create tailor-cut websites with the exclusive multi-purpose responsive template along with powerful features.</p>
-      </div>
-      <div class="action-box-button">
-        <a class="button button-border white" href="#">
-          <span>Purchase Now</span>
-          <i class="fa fa-download"></i>
-       </a>
-     </div>
-    </div>
-  </div>
- </div>
-</section>
-
-  @include('seccion.footer')
+    @include('seccion.webseter')
+    @include('seccion.footer')
