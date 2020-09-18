@@ -36,3 +36,11 @@ Route::get('single', function () {
 Route::get('wishlist', function () {
     return view('web.wishlist');
 })->name("wishlist");
+
+Route::get('tab', function () {
+    return view('web.tab');
+})->name("tab");
+
+Route::get('tab2', function () {
+    return view('web.tab2');
+})->name("tab2");
