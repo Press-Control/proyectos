@@ -1,5 +1,5 @@
-@extends('farmacia.esqueleto')
-  @include('seccion.header')
+@extends('web.farmacia.esqueleto')
+  @include('web.seccion.header')
   <section id="main-slider" class="shop-06-banner">
    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
@@ -431,4 +431,4 @@ blog -->
       </div>
      </div>
 </section>
-  @include('seccion.footer')
+  @include('web.seccion.footer')

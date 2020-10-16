@@ -52,7 +52,7 @@
 
 
 <div id="back-to-top"><a class="top arrow" href="#top"><i class="fa fa-angle-up"></i> <span>TOP</span></a></div>
-
+</div>
 <!--=================================
  javascripts -->
 
@@ -63,7 +63,7 @@
 <script src="web/js/plugins-jquery.js"></script>
 
 <!-- Plugins path -->
-<script>var plugin_path = 'js/';</script>
+<script>var plugin_path = 'web/js/';</script>
 
 <!-- REVOLUTION JS FILES -->
 <script src="web/revolution/js/jquery.themepunch.tools.min.js"></script>

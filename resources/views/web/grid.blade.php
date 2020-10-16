@@ -1,5 +1,5 @@
-@extends('farmacia.esqueleto')
-  @include('seccion.header2')
+@extends('web.farmacia.esqueleto')
+  @include('web.seccion.header2')
   <section class="page-title bg-overlay-black-60 parallax" data-jarallax='{"speed": 0.6}' style="background-image: url(web/images/bg/02.jpg);">
   <div class="container">
     <div class="row">
@@ -493,5 +493,5 @@ welcome -->
 <!--=================================
 action box- -->
 
-  @include('seccion.webseter')
-  @include('seccion.footer')
+  @include('web.seccion.webseter')
+  @include('web.seccion.footer')

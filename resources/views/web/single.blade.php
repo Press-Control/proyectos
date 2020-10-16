@@ -1,23 +1,6 @@
-@extends('farmacia.esqueleto')
-  @include('seccion.header2')
-
-<section class="page-title bg-overlay-black-60 parallax" data-jarallax='{"speed": 0.6}' style="background-image: url(web/images/bg/02.jpg);">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-      <div class="page-title-name">
-          <h1>Detalles de compra</h1>
-          <p>Descripción</p>
-        </div>
-          <ul class="page-breadcrumb">
-            <li><a href="#"><i class="fa fa-home"></i>Inicio</a> <i class="fa fa-angle-double-right"></i></li>
-            <li><a href="#">Tienda</a> <i class="fa fa-angle-double-right"></i></li>
-            <li><span>Detalles de compra</span> </li>
-       </ul>
-     </div>
-     </div>
-  </div>
-</section>
+@extends('web.farmacia.esqueleto')
+@include('web.seccion.header')
+@section('contenido')
 
 <!--=================================
 page-title -->
@@ -34,20 +17,8 @@ shop -->
            <div class="col-lg-6">
              <div class="slider-slick">
               <div class="slider slider-for detail-big-car-gallery">
-                    <img class="img-fluid" src="web/images/shop/detail/big/01.jpg" alt="">
                     <img class="img-fluid" src="web/images/shop/detail/big/02.jpg" alt="">
                     <img class="img-fluid" src="web/images/shop/detail/big/03.jpg" alt="">
-                    <img class="img-fluid" src="web/images/shop/detail/big/04.jpg" alt="">
-                    <img class="img-fluid" src="web/images/shop/detail/big/05.jpg" alt="">
-                    <img class="img-fluid" src="web/images/shop/detail/big/06.jpg" alt="">
-                </div>
-                <div class="slider slider-nav">
-                    <img class="img-fluid" src="web/images/shop/detail/thum/01.jpg" alt="">
-                    <img class="img-fluid" src="web/images/shop/detail/thum/02.jpg" alt="">
-                    <img class="img-fluid" src="web/images/shop/detail/thum/03.jpg" alt="">
-                    <img class="img-fluid" src="web/images/shop/detail/thum/04.jpg" alt="">
-                    <img class="img-fluid" src="web/images/shop/detail/thum/05.jpg" alt="">
-                    <img class="img-fluid" src="web/images/shop/detail/thum/06.jpg" alt="">
                 </div>
              </div>
            </div>
@@ -493,5 +464,6 @@ shop -->
 
 <!--=================================
 action box- -->
-    @include('seccion.webseter')
-    @include('seccion.footer')
+    @include('web.seccion.webseter')
+    @include('web.seccion.footer')
+  @endsection

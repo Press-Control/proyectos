@@ -1,4 +1,4 @@
-@extends('farmacia.esqueleto')
+@extends('web.farmacia.esqueleto')
 
 
   <div class="container">
